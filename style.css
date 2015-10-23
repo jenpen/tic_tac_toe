@@ -40,3 +40,19 @@ table.center {
 .bottom{
   border-right:1px solid #fff;
 }
+
+.clear {
+  margin: 0 auto;
+  float: left;
+  content: none;
+}
+
+#reset {
+  text-align: center;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 1.5em;
+}
+
+.hover {
+  background: RGBA(218, 178, 115, .3);
+}
