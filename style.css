@@ -1,0 +1,42 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Rock Salt', cursive;
+  padding: 0;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.square{
+    width:200px;
+    height:200px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 7em;
+}
+
+.left-side{
+  border-bottom:1px solid #fff;
+  border-right:1px solid #fff;
+}
+
+.right-side{
+  border-bottom:1px solid #fff;
+}
+
+.bottom{
+  border-right:1px solid #fff;
+}
